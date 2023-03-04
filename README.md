@@ -1,0 +1,2 @@
+# VRCImageDownloaderTestSource
+VRCのImageDownloaderのサンプル用画像ソース置き場
